@@ -1,8 +1,7 @@
-<html>
-    <head>
-        <title>  File </title>
-    </head>
-    <body> 
-        <p> Hello, this is yash </p>
-    </body>
-</html>
+const name = 'yash'
+
+const greet = () => {
+    return `this is ${name}`
+}
+
+console.log(greet())
