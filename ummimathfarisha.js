@@ -1,3 +1,5 @@
-function sayHello(name){
-    return "Hello, "+name
+const greet = 'helloo'
+
+function sayHello(greet){
+    return greet, +  'wondermomen'
 }
