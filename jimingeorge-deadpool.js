@@ -1,0 +1,1 @@
+const deadpool=()=>console.log('hey its deadpool here')
